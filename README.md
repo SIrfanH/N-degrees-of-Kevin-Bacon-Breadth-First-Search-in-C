@@ -21,7 +21,7 @@ For the given input file the program finds the Kevin Bacon number of any actor g
 > Julia Roberts – Kevin Bacon : Flatliners (1990)<br/>
 
 ### Saving The Network to a Table
-Additionally the program saves the Network of connections from previously asked actors by the user in a table. So that if the user an already asked actors kevin bacon number then it directly accesses the network via the table.<br/>
+Additionally the program saves the Network of connections from previously asked actors by the user in a table. So that if the user enters an already asked actors Kevin Bacon Number then it directly accesses the network via the table.<br/>
 
 ### Interface
 When the program is run the first input that is requested from the user is the relative path of the input file that contains the data for the actors and the movie. After the file is read into the memory the user has to choose three options. First option for listing every actors Kevin Bacon Number, Second option for looking for Kevin Bacon Number of a specific actor and the third option to exit the program.<br/>
